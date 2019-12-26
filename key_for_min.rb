@@ -4,6 +4,5 @@
 def key_for_min_value(name_hash)
   if name_hash = {}
     return nil 
-  else key_for_min_value 
   end 
 end 
